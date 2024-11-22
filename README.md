@@ -38,5 +38,5 @@ Enter the number of comments you would like to post into the Amount box, then cl
 
 ## Liscence
 
-Copyright (c) 2024 iw131, you are not permitted to redristibute, modify, copy, clone, sell, or claim this software as yours.<br />
+Copyright (c) 2024, you are not permitted to redristibute, modify, copy, clone, sell, or claim this software as yours.<br />
 <br />
